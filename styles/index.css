@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+/* CSS grid */
+/*
+.container {
+    display: grid;
+    grid-template-columns: 120px;
+    grid-template-rows: 50px 50px 50px 50px 50px 50px; /*pela qtd de itens 
+    grid-area: content;
+}
+*/
+
+.flex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: ;
+
+}
+
+.item {
+    margin: 5px;
+    font-size: 42px;
+}
